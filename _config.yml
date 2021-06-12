@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Welcome to Dr. Mao's"
 title_separator          : "|"
-subtitle                 : "Welcome to Dr. Mao's_v2"
+subtitle                 : "Welcome to Dr. Mao's_v3"
 name                     : "Yafei Mao"
 description              : "An amazing website."
 url                      : "https://titplegend.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
