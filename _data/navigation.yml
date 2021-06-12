@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: /index
+    url: /
   - title: "Research"
-    url: /year-archive/
+    url: /research
   - title: "Publications"
-    url: /collection-archive/
+    url: /publications
   - title: "Contact"
     url: /sitemap/
